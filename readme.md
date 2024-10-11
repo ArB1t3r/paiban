@@ -33,7 +33,7 @@
    ```
 3. 运行程序：
    ```
-   python scheduling_app.py
+   python paiban.py
    ```
 
 ## 🔧 使用说明
